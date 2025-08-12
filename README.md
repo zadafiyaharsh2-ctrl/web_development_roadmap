@@ -93,15 +93,3 @@
 
 ---
 
-## Quick Tips
-- Build projects — learning by shipping matters more than tutorials.  
-- Start with small, complete projects (deploy them).  
-- Use TypeScript as soon as you’re comfortable with JS. It pays off fast.  
-- Write clean commits and maintain a polished GitHub portfolio.
-
----
-
-If you want, I can:
-- Turn this into a `README.md` file and add a **study schedule** mapped to your 96-hour plan.  
-- Generate a checklist JSON or Trello board you can track daily.  
-Which would you like?  
